@@ -7,7 +7,7 @@
   "category": "educational",
   "shared": true,
   "start_command": "node spacelet.js",
-  "origins": "*",
+  "origins": ["*"],
   "inject_identifier": "<head>",
   "inject_hostnames": [ "www.example.com" ],
   "inject_files": [ { "directory": "www", "file": "inject.js", "type": "javascript" } ],

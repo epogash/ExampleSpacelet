@@ -1,5 +1,5 @@
 {
-  "unique_name": "name",
+  "unique_name": "example/spacelet1",
   "provides_services": [ {"service_name": "spaceify.org/services/example/spacelet1", "service_type": "open"} ],
   "name": "Example spacelet 1",
   "version":"1.0.0",

@@ -1,5 +1,4 @@
 {
-  "unique_name": "example/spacelet1",
   "provides_services": [ {"service_name": "spaceify.org/services/example/spacelet1", "service_type": "open"} ],
   "name": "Example spacelet 1",
   "version":"1.0.0",
@@ -12,5 +11,6 @@
   "inject_hostnames": [ "www.example.com" ],
   "inject_files": [ {"file": "inject.js", "type": "javascript" } ],
   "short_description": "Example spacelet 1.",
-  "developer": {"name": "Spaceify Inc.", "url": "http://spaceify.net", "email": "admin@spaceify.net"}
+  "developer": {"name": "Spaceify Inc.", "url": "http://spaceify.net", "email": "admin@spaceify.net"},
+  "unique_name": "example/spacelet1"
 }
